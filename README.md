@@ -1,4 +1,4 @@
-# 🧠 Ollama Chat - Fullstack LLM Copilot Template
+# 🧠 Tawfiq Chatbot 🤖
 
 <div align="center">
 

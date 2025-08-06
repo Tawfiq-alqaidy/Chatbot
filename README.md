@@ -494,14 +494,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [FastAPI](https://fastapi.tiangolo.com/) - For the excellent Python web framework
 - [Pydantic](https://pydantic.dev/) - For data validation and settings management
 
-## 📞 Support
-
-- 📖 **Documentation**: Check this README and API docs at `/docs`
-- 🐛 **Issues**: Report bugs in GitHub Issues
-- 💬 **Discussions**: Join GitHub Discussions for questions
-- 📧 **Contact**: [Your contact information]
-
----
 
 <div align="center">
 
